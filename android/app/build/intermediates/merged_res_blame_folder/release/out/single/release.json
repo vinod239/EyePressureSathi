@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_refill.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_refill.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_eyepressurelogo.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_eyepressurelogo.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_prescription.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_prescription.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_background.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_background.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_dropreminder.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_dropreminder.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_alkemlogo.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_alkemlogo.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_appointment.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_appointment.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_src_assets_images_summary.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/src_assets_images_summary.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.eyepressure_saathi.app-react-42:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

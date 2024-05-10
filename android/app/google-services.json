@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161852255647",
+    "project_id": "eyesaathi-9bd93",
+    "storage_bucket": "eyesaathi-9bd93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161852255647:android:6d48f8835b95fcd93ca1aa",
+        "android_client_info": {
+          "package_name": "com.eyepressure_saathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnwEjYuUZywBmVdkL14pp5dfiAPnr3lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
