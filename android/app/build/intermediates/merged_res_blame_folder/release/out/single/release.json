@@ -16,6 +16,10 @@
         "source": "com.eyepressure_saathi.app-main-48:/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.eyepressure_saathi.app-main-48:/drawable/rn_edit_text_material.xml"
+    },
+    {
         "merged": "com.eyepressure_saathi.app-merged_res-47:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
         "source": "com.eyepressure_saathi.app-react-42:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },

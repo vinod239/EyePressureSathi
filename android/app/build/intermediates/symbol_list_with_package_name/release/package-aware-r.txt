@@ -3194,6 +3194,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable overlay
 drawable redbox_top_border_background
+drawable rn_edit_text_material
 drawable src_assets_images_alkemlogo
 drawable src_assets_images_appointment
 drawable src_assets_images_background

@@ -29,7 +29,6 @@ import SplashScreen from 'react-native-splash-screen';
 
 
 
-
 const Stack = createNativeStackNavigator()
 
 const App = ({ navigation }) => {

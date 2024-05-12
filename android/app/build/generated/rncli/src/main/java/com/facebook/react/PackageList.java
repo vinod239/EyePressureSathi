@@ -29,8 +29,6 @@ import com.asterinet.react.bgactions.BackgroundActionsPackage;
 import com.henninghall.date_picker.DatePickerPackage;
 // react-native-fs
 import com.rnfs.RNFSPackage;
-// react-native-gesture-handler
-import com.swmansion.gesturehandler.RNGestureHandlerPackage;
 // react-native-image-picker
 import com.imagepicker.ImagePickerPackage;
 // react-native-permissions
@@ -103,7 +101,6 @@ public class PackageList {
       new BackgroundActionsPackage(),
       new DatePickerPackage(),
       new RNFSPackage(),
-      new RNGestureHandlerPackage(),
       new ImagePickerPackage(),
       new RNPermissionsPackage(),
       new ReactNativePushNotificationPackage(),

@@ -1,30 +1,30 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.eyepressure_saathi"
-4    android:versionCode="4"
-5    android:versionName="1.6" >
+4    android:versionCode="6"
+5    android:versionName="1.8" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\saathi-1\android\app\src\main\AndroidManifest.xml
+8-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->D:\saathi-1\android\app\src\main\AndroidManifest.xml
+9-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:3:5-67
-11-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:3:22-64
+11-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:3:5-67
+11-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:3:22-64
 12    <uses-permission android:name="android.permission.WAKE_LOCK" />
-12-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
-12-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
+12-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+12-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
-13-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+13-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+13-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
 14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-14-->[:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
-14-->[:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
+14-->[:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
+14-->[:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->[:react-native-fs] D:\saathi-1\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
-15-->[:react-native-fs] D:\saathi-1\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
+15-->[:react-native-fs] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+15-->[:react-native-fs] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
 16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
 16-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:23:5-77
 16-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:23:22-74
@@ -110,133 +110,133 @@
 48-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\paras\.gradle\caches\transforms-3\dce99552b7ebd75de09b5f93fe609550\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86
 49
 50    <application
-50-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:5:5-24:19
+50-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:5:5-24:19
 51        android:name="com.eyepressure_saathi.MainApplication"
-51-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:6:7-38
+51-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:6:7-38
 52        android:allowBackup="false"
-52-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:10:7-34
+52-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:10:7-34
 53        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 53-->[androidx.core:core:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f24dd52f4ad46a9d41de91ab3bced6ce\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 54        android:icon="@mipmap/ic_launcher"
-54-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:8:7-41
+54-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:8:7-41
 55        android:label="@string/app_name"
-55-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:7:7-39
+55-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:7:7-39
 56        android:roundIcon="@mipmap/ic_launcher_round"
-56-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:9:7-52
+56-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:9:7-52
 57        android:theme="@style/AppTheme" >
-57-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:11:7-38
+57-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:11:7-38
 58        <activity
-58-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:12:7-23:18
+58-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:12:7-23:18
 59            android:name="com.eyepressure_saathi.MainActivity"
-59-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:13:9-37
+59-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:13:9-37
 60            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-60-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:15:9-118
+60-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:15:9-118
 61            android:exported="true"
-61-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:18:9-32
+61-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:18:9-32
 62            android:label="@string/app_name"
-62-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:14:9-41
+62-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:14:9-41
 63            android:launchMode="singleTask"
-63-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:16:9-40
+63-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:16:9-40
 64            android:windowSoftInputMode="adjustResize" >
-64-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:17:9-51
+64-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:17:9-51
 65            <intent-filter>
-65-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:19:9-22:25
+65-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:19:9-22:25
 66                <action android:name="android.intent.action.MAIN" />
-66-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:20:13-65
-66-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:20:21-62
+66-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:20:13-65
+66-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:20:21-62
 67
 68                <category android:name="android.intent.category.LAUNCHER" />
-68-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:21:13-73
-68-->D:\saathi-1\android\app\src\main\AndroidManifest.xml:21:23-70
+68-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:21:13-73
+68-->D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:21:23-70
 69            </intent-filter>
 70        </activity>
 71
 72        <provider
-72-->[:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:40
+72-->[:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:40
 73            android:name="io.invertase.notifee.NotifeeInitProvider"
-73-->[:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-68
+73-->[:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-68
 74            android:authorities="com.eyepressure_saathi.notifee-init-provider"
-74-->[:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-73
+74-->[:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-73
 75            android:exported="false"
-75-->[:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+75-->[:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
 76            android:initOrder="-100" />
-76-->[:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-37
+76-->[:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-37
 77
 78        <service
-78-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:40
+78-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:40
 79            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService"
-79-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-103
+79-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-103
 80            android:exported="false" />
-80-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+80-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
 81        <service
-81-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-23:19
+81-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-23:19
 82            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
-82-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-95
+82-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-95
 83            android:exported="false" >
-83-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
+83-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
 84            <intent-filter>
-84-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
+84-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
 85                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-85-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
-85-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
+85-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
+85-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
 86            </intent-filter>
 87        </service>
 88
 89        <receiver
-89-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32:20
+89-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32:20
 90            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
-90-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-96
+90-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-96
 91            android:exported="true"
-91-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
+91-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
 92            android:permission="com.google.android.c2dm.permission.SEND" >
-92-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-73
+92-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-73
 93            <intent-filter>
-93-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
+93-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
 94                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-94-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
-94-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
+94-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
+94-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
 95            </intent-filter>
 96        </receiver>
 97
 98        <meta-data
-98-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+98-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
 99            android:name="firebase_messaging_auto_init_enabled"
-99-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-64
+99-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-64
 100            android:value="true" />
-100-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+100-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
 101        <meta-data
-101-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:32
+101-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:32
 102            android:name="com.google.firebase.messaging.default_notification_channel_id"
-102-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-89
+102-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-89
 103            android:value="" />
-103-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-29
+103-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-29
 104        <meta-data
-104-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:47
+104-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:47
 105            android:name="com.google.firebase.messaging.default_notification_color"
-105-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-84
+105-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-84
 106            android:resource="@color/white" />
-106-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-44
+106-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-44
 107        <meta-data
-107-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-13:36
+107-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-13:36
 108            android:name="app_data_collection_default_enabled"
-108-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-63
+108-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-63
 109            android:value="true" />
-109-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-33
+109-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-33
 110
 111        <service
-111-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:19
+111-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:19
 112            android:name="com.google.firebase.components.ComponentDiscoveryService"
-112-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-84
+112-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-84
 113            android:directBootAware="true"
-113-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-43
+113-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-43
 114            android:exported="false" >
-114-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+114-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
 115            <meta-data
-115-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:85
+115-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:85
 116                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
-116-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-120
+116-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-120
 117                android:value="com.google.firebase.components.ComponentRegistrar" />
-117-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-82
+117-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-82
 118            <meta-data
 118-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:57:13-59:85
 119                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
@@ -282,36 +282,36 @@
 139        </service>
 140
 141        <provider
-141-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-29:38
+141-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-29:38
 142            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
-142-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-88
+142-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-88
 143            android:authorities="com.eyepressure_saathi.reactnativefirebaseappinitprovider"
-143-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-86
+143-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-86
 144            android:exported="false"
-144-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-37
+144-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-37
 145            android:initOrder="99" />
-145-->[:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-35
+145-->[:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-35
 146
 147        <service android:name="com.asterinet.react.bgactions.RNBackgroundActionsTask" />
-147-->[:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-89
-147-->[:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:18-86
+147-->[:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-89
+147-->[:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:18-86
 148
 149        <provider
-149-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+149-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
 150            android:name="com.imagepicker.ImagePickerProvider"
-150-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
+150-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
 151            android:authorities="com.eyepressure_saathi.imagepickerprovider"
-151-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
+151-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
 152            android:exported="false"
-152-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+152-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
 153            android:grantUriPermissions="true" >
-153-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+153-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
 154            <meta-data
-154-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
+154-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
 155                android:name="android.support.FILE_PROVIDER_PATHS"
-155-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+155-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
 156                android:resource="@xml/imagepicker_provider_paths" />
-156-->[:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
+156-->[:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
 157        </provider>
 158
 159        <activity
@@ -348,10 +348,10 @@
 177            android:permission="com.google.android.c2dm.permission.SEND" >
 177-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:32:13-73
 178            <intent-filter>
-178-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
+178-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
 179                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-179-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
-179-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
+179-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
+179-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
 180            </intent-filter>
 181
 182            <meta-data
@@ -374,10 +374,10 @@
 193            android:exported="false" >
 193-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:49:13-37
 194            <intent-filter android:priority="-500" >
-194-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
+194-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
 195                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-195-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
-195-->[:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
+195-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
+195-->[:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
 196            </intent-filter>
 197        </service>
 198

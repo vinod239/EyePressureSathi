@@ -1,28 +1,27 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-MERGED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-17:12
-MERGED from [:react-native-async-storage_async-storage] D:\saathi-1\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-camera-roll_camera-roll] D:\saathi-1\node_modules\@react-native-camera-roll\camera-roll\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_datetimepicker] D:\saathi-1\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-45:12
-MERGED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-32:12
-MERGED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:react-native-date-picker] D:\saathi-1\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-fs] D:\saathi-1\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-gesture-handler] D:\saathi-1\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
-MERGED from [:react-native-permissions] D:\saathi-1\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-push-notification] D:\saathi-1\node_modules\react-native-push-notification\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-reanimated] D:\saathi-1\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-safe-area-context] D:\saathi-1\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] D:\saathi-1\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-splash-screen] D:\saathi-1\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-vector-icons] D:\saathi-1\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-view-shot] D:\saathi-1\node_modules\react-native-view-shot\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+MERGED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-async-storage_async-storage] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera-roll_camera-roll] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-camera-roll\camera-roll\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-date-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fs] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-permissions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-push-notification\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-view-shot] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-view-shot\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.15] C:\Users\paras\.gradle\caches\transforms-3\8cf26b7a218162d802073e10a5cd60fc\transformed\jetified-react-android-0.71.15-release\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\25f92c44cb7ac95feaec4c24ebebf265\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.react:hermes-android:0.71.15] C:\Users\paras\.gradle\caches\transforms-3\de60d128a1d03e319ef7556253046e8e\transformed\jetified-hermes-android-0.71.15-release\AndroidManifest.xml:2:1-9:12
@@ -82,8 +81,8 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Us
 MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\paras\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:15:1-41:12
 MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\paras\.gradle\caches\transforms-3\f6511444277a848c6e211c68683ababb\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\paras\.gradle\caches\transforms-3\422c23a7f955d6599fd9a5f962ac529b\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f0b2b8c61416e94d5d3bb0c0f9df86ed\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\paras\.gradle\caches\transforms-3\b36461903e311b7b62770ef68d83ba7a\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f0b2b8c61416e94d5d3bb0c0f9df86ed\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\2aa98a44431c3d10a78b52ba8c641a64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\32fe0804af39ef7cec4c058cca4c08c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\paras\.gradle\caches\transforms-3\73acc6c28ce5c896c39f17cdee3a0326\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -117,27 +116,27 @@ MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\paras\.gradle\caches\
 MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\paras\.gradle\caches\transforms-3\dce99552b7ebd75de09b5f93fe609550\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:2:1-52:12
 MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\paras\.gradle\caches\transforms-3\0b5a7f26ed22cd7fef2f4fa1bef00448\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\1269912ffc3e682a81f5a15fe29b9d35\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
 	package
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:1-25:12
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:3:5-67
-MERGED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
-MERGED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
 MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\paras\.gradle\caches\transforms-3\458adb93fe6cc2b55a91076161cc9b12\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\paras\.gradle\caches\transforms-3\458adb93fe6cc2b55a91076161cc9b12\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\paras\.gradle\caches\transforms-3\a1efe3bc173e5db38a0701788b3d687f\transformed\jetified-play-services-cloud-messaging-17.1.0\AndroidManifest.xml:8:5-67
@@ -147,21 +146,21 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Us
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:14:5-67
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:3:22-64
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:3:22-64
 application
-ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:5:5-24:19
-MERGED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
-MERGED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
-MERGED from [:react-native-community_datetimepicker] D:\saathi-1\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-20
-MERGED from [:react-native-community_datetimepicker] D:\saathi-1\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-20
-MERGED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-43:19
-MERGED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-43:19
-MERGED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-30:19
-MERGED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-30:19
-MERGED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:19
-MERGED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:19
-MERGED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:react-native-community_datetimepicker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:19
+MERGED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:19
+MERGED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
 MERGED from [com.facebook.react:react-android:0.71.15] C:\Users\paras\.gradle\caches\transforms-3\8cf26b7a218162d802073e10a5cd60fc\transformed\jetified-react-android-0.71.15-release\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-android:0.71.15] C:\Users\paras\.gradle\caches\transforms-3\8cf26b7a218162d802073e10a5cd60fc\transformed\jetified-react-android-0.71.15-release\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\paras\.gradle\caches\transforms-3\0de7e1b8ce392bfdc10c203648af8939\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
@@ -221,83 +220,81 @@ MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\paras\.gradle\caches\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f24dd52f4ad46a9d41de91ab3bced6ce\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:7:7-39
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:7:7-39
 	android:roundIcon
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:9:7-52
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:9:7-52
 	android:icon
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:8:7-41
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:8:7-41
 	android:allowBackup
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:10:7-34
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:10:7-34
 	android:theme
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:11:7-38
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:11:7-38
 	android:name
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:6:7-38
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:6:7-38
 activity#com.eyepressure_saathi.MainActivity
-ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:12:7-23:18
+ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:12:7-23:18
 	android:label
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:14:9-41
 	android:launchMode
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:16:9-40
 	android:windowSoftInputMode
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:17:9-51
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:17:9-51
 	android:exported
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:18:9-32
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:18:9-32
 	android:configChanges
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:15:9-118
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:15:9-118
 	android:name
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:13:9-37
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:13:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:19:9-22:25
+ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:20:13-65
+ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:20:21-62
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:21:13-73
+ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml:21:23-70
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml:21:23-70
 uses-sdk
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-MERGED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] D:\saathi-1\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] D:\saathi-1\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-camera-roll_camera-roll] D:\saathi-1\node_modules\@react-native-camera-roll\camera-roll\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-camera-roll_camera-roll] D:\saathi-1\node_modules\@react-native-camera-roll\camera-roll\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_datetimepicker] D:\saathi-1\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_datetimepicker] D:\saathi-1\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-date-picker] D:\saathi-1\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-date-picker] D:\saathi-1\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-fs] D:\saathi-1\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-fs] D:\saathi-1\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] D:\saathi-1\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] D:\saathi-1\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-permissions] D:\saathi-1\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-permissions] D:\saathi-1\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-push-notification] D:\saathi-1\node_modules\react-native-push-notification\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-push-notification] D:\saathi-1\node_modules\react-native-push-notification\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-reanimated] D:\saathi-1\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-reanimated] D:\saathi-1\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] D:\saathi-1\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] D:\saathi-1\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] D:\saathi-1\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] D:\saathi-1\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-splash-screen] D:\saathi-1\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-splash-screen] D:\saathi-1\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] D:\saathi-1\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] D:\saathi-1\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-view-shot] D:\saathi-1\node_modules\react-native-view-shot\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-view-shot] D:\saathi-1\node_modules\react-native-view-shot\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera-roll_camera-roll] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-camera-roll\camera-roll\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera-roll_camera-roll] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-camera-roll\camera-roll\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-push-notification\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-push-notification\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-view-shot] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-view-shot\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-view-shot] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-view-shot\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.15] C:\Users\paras\.gradle\caches\transforms-3\8cf26b7a218162d802073e10a5cd60fc\transformed\jetified-react-android-0.71.15-release\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.15] C:\Users\paras\.gradle\caches\transforms-3\8cf26b7a218162d802073e10a5cd60fc\transformed\jetified-react-android-0.71.15-release\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\25f92c44cb7ac95feaec4c24ebebf265\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -416,10 +413,10 @@ MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\paras\.gra
 MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\paras\.gradle\caches\transforms-3\f6511444277a848c6e211c68683ababb\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
 MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\paras\.gradle\caches\transforms-3\422c23a7f955d6599fd9a5f962ac529b\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\paras\.gradle\caches\transforms-3\422c23a7f955d6599fd9a5f962ac529b\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f0b2b8c61416e94d5d3bb0c0f9df86ed\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f0b2b8c61416e94d5d3bb0c0f9df86ed\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\paras\.gradle\caches\transforms-3\b36461903e311b7b62770ef68d83ba7a\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\paras\.gradle\caches\transforms-3\b36461903e311b7b62770ef68d83ba7a\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f0b2b8c61416e94d5d3bb0c0f9df86ed\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\paras\.gradle\caches\transforms-3\f0b2b8c61416e94d5d3bb0c0f9df86ed\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\2aa98a44431c3d10a78b52ba8c641a64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\2aa98a44431c3d10a78b52ba8c641a64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\32fe0804af39ef7cec4c058cca4c08c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -486,28 +483,28 @@ MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\paras\.gradle\caches\tra
 MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\paras\.gradle\caches\transforms-3\0b5a7f26ed22cd7fef2f4fa1bef00448\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\1269912ffc3e682a81f5a15fe29b9d35\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\paras\.gradle\caches\transforms-3\1269912ffc3e682a81f5a15fe29b9d35\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\saathi-1\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Renish\eyepressure_saathi-main\android\app\src\main\AndroidManifest.xml
 provider#io.invertase.notifee.NotifeeInitProvider
-ADDED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:40
+ADDED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:40
 	android:authorities
-		ADDED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-73
+		ADDED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-73
 	android:exported
-		ADDED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+		ADDED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
 	android:initOrder
-		ADDED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-37
+		ADDED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [:notifee_react-native] D:\saathi-1\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-68
+		ADDED from [:notifee_react-native] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-68
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
 MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\paras\.gradle\caches\transforms-3\a1efe3bc173e5db38a0701788b3d687f\transformed\jetified-play-services-cloud-messaging-17.1.0\AndroidManifest.xml:9:5-68
@@ -517,9 +514,9 @@ MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\paras\.gradle\caches\tra
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:10:5-68
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:10:5-68
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\paras\.gradle\caches\transforms-3\458adb93fe6cc2b55a91076161cc9b12\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
@@ -535,65 +532,65 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:11:5-79
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
 service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:40
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:40
 	android:exported
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-103
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-103
 service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-23:19
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-23:19
 	android:exported
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-95
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-95
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
 receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32:20
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32:20
 	android:exported
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
 	android:permission
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-73
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-73
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-96
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-96
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
 meta-data#firebase_messaging_auto_init_enabled
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
 	android:value
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-64
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-64
 meta-data#com.google.firebase.messaging.default_notification_channel_id
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:32
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:32
 	android:value
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-29
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-29
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-89
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-89
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:47
+ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:47
 	android:resource
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-44
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-44
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\saathi-1\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-84
+		ADDED from [:react-native-firebase_messaging] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-84
 meta-data#app_data_collection_default_enabled
-ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-13:36
+ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-13:36
 	android:value
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-33
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-33
 	android:name
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-63
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-63
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:19
+ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:19
 MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:54:9-63:19
 MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\paras\.gradle\caches\transforms-3\6010b9928238960ecd6cdbeea7e5eaf1\transformed\jetified-firebase-messaging-23.4.0\AndroidManifest.xml:54:9-63:19
 MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\paras\.gradle\caches\transforms-3\458adb93fe6cc2b55a91076161cc9b12\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:12:9-21:19
@@ -605,61 +602,61 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\paras\.gradle\
 MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\paras\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
 MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\paras\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
 	android:exported
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
 	tools:targetApi
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-32
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-32
 	android:directBootAware
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-43
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-43
 	android:name
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-84
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-84
 meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:85
+ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:85
 	android:value
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-82
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-82
 	android:name
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-120
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-120
 provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
-ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-29:38
+ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-29:38
 	android:authorities
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-86
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-86
 	android:exported
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-37
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-37
 	android:initOrder
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-35
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-35
 	android:name
-		ADDED from [:react-native-firebase_app] D:\saathi-1\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-88
+		ADDED from [:react-native-firebase_app] D:\Documents\Renish\eyepressure_saathi-main\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-88
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
+ADDED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
 MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\paras\.gradle\caches\transforms-3\b7135b914bc998c28f730e57408b3ecf\transformed\work-runtime-2.8.0\AndroidManifest.xml:26:5-77
 MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\paras\.gradle\caches\transforms-3\b7135b914bc998c28f730e57408b3ecf\transformed\work-runtime-2.8.0\AndroidManifest.xml:26:5-77
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:15:5-77
 MERGED from [app.notifee:core:202108261754] C:\Users\paras\.gradle\caches\transforms-3\1e9ae68b66ab650cd5e1f842666f0aca\transformed\jetified-core-202108261754\AndroidManifest.xml:15:5-77
 	android:name
-		ADDED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
+		ADDED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
 service#com.asterinet.react.bgactions.RNBackgroundActionsTask
-ADDED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-89
+ADDED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-89
 	android:name
-		ADDED from [:react-native-background-actions] D:\saathi-1\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:18-86
+		ADDED from [:react-native-background-actions] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-background-actions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:18-86
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:react-native-fs] D:\saathi-1\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+ADDED from [:react-native-fs] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from [:react-native-fs] D:\saathi-1\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
+		ADDED from [:react-native-fs] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
 provider#com.imagepicker.ImagePickerProvider
-ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+		ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
+		ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
 	android:exported
-		ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+		ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
+		ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
+ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
 	android:resource
-		ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
+		ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
 	android:name
-		ADDED from [:react-native-image-picker] D:\saathi-1\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+		ADDED from [:react-native-image-picker] D:\Documents\Renish\eyepressure_saathi-main\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\paras\.gradle\caches\transforms-3\e7d121ba9cd0e53a05c11d4570dd5dd9\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
